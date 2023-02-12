@@ -6,7 +6,7 @@ function Header () {
   return (
   <header className={styles.header}>  
     <Link href='/' className={styles.logo}>
-    <span> FİLE BLOG</span>
+    <span>BLOG</span>
     </Link>
     <nav>
       <Link href='https://www.celil.dev' target='_blank' >
